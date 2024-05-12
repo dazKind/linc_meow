@@ -1,0 +1,6 @@
+<xml>
+    <files id='haxe'>
+        <compilerflag value='-I${LINC_MEOW_PATH}linc/'/>
+        <file name='${LINC_MEOW_PATH}linc/linc_meow.cpp'/>
+    </files>
+</xml>
